@@ -1,4 +1,4 @@
-// ── KELAS DOKTER ─────────────────────────────────────────────
+// ── KELAS DOKTER ──────────────────────────────────────────
 class Dokter(
     val idDokter: String,
     val nama: String,

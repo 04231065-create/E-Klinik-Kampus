@@ -1,4 +1,4 @@
-// ── KELAS ANTRIAN ────────────────────────────────────────────
+// ── KELAS ANTRIAN ───────────────────────────────────────
 class Antrian(
     val idAntrian: String,
     val nomorAntrian: Int,
