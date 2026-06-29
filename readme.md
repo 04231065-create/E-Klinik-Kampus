@@ -1,4 +1,4 @@
-# UTS PBO - E-Klinik Kampus (Pendaftaran Berobat)
+# PBO - E-Klinik Kampus (Pendaftaran Berobat)
 Repositori ini merupakan hasil pengerjaan Ujian Tengah Semester (UTS) mata kuliah Pemrograman Berorientasi Objek (PBO). Proyek ini difokuskan pada pemodelan sistem dan implementasi kode berbasis Object-Oriented Programming (OOP) menggunakan bahasa Kotlin.
 
 ## Deskripsi Proyek

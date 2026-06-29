@@ -17,6 +17,7 @@ fun main() {
     dokterB.info()
     pasien1.info()
 
+    
     println("\n$sep")
     println("  SIMULASI GAGAL")
     println(sep)
