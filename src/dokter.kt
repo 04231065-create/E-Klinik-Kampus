@@ -4,7 +4,8 @@ class Dokter(
     val nama: String,
     val spesialisasi: String,
     kuotaAwal: Int
-) {
+) 
+{
     var kuotaHarian: Int = kuotaAwal
         private set
 
