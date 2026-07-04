@@ -9,7 +9,7 @@ class Dokter(
         private set
 
     private val batasMinKuota = 0
-    private val batasMaksKuota = 21
+    private val batasMaksKuota = 20
 
     fun setKuota(kuota: Int) {
         if (kuota < batasMinKuota || kuota > batasMaksKuota) {
